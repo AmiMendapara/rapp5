@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/rapp5/static/css/main.e6c13ad2.css",
+    "main.js": "/rapp5/static/js/main.1e0e8e03.js",
+    "static/js/787.b05fb442.chunk.js": "/rapp5/static/js/787.b05fb442.chunk.js",
+    "index.html": "/rapp5/index.html",
+    "main.e6c13ad2.css.map": "/rapp5/static/css/main.e6c13ad2.css.map",
+    "main.1e0e8e03.js.map": "/rapp5/static/js/main.1e0e8e03.js.map",
+    "787.b05fb442.chunk.js.map": "/rapp5/static/js/787.b05fb442.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1e0e8e03.js"
+  ]
+}
